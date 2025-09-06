@@ -1,8 +1,5 @@
 # FitKhana: Your Healthy Meal Partner
 
-> A Capstone-I project by students of the Hybrid UG Program in Computer Science & Data Analytics  
-> **Indian Institute of Technology Patna** | Bihta - 801106, India  
-> 📅 Date: 30th June, 2025
 
 ## 📌 Project Summary
 
@@ -28,28 +25,7 @@
 
 ---
 
-## 👨‍💻 Team Contributions
-
-- **Roshan Shaw (24A12RES1073)**  
-  - Developed and structured the frontend
-  - Integrated UI components with HTML, CSS, and JavaScript
-  - Took initiative in syncing design and development efforts
-  - Used design tools like Figma & Canva for visual consistency
-
-- **Yash Sharma (24A12RES1219)**  
-  - Designed and developed the backend architecture
-  - Integrated AI APIs and training data for smart meal suggestions
-
-- **Yukti Sharma (24A12RES1220)**  
-  - Crafted intuitive UI/UX design
-  - Ensured usability across all user groups with clean layouts
-
-- **Siddhanth Shriram Shirsat (24A11RES85)**  
-  - Led user testing and feedback integration
-  - Managed team coordination and task distribution
-
-- **Shreya Shekhar (24A12RES1105)**  
-  - No contribution or communication reported
+ 
 
 ---
 
