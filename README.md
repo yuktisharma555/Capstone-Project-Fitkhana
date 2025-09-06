@@ -63,7 +63,7 @@
 
 ---
 
-## 📚 What I Learned (Roshan Shaw)
+## 📚 What I Learned (YUKTI SHARMA)
 
 - Frontend Development: HTML, CSS, JS best practices
 - UI/UX Design: Typography, visual hierarchy, layout grids
